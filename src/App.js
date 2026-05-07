@@ -892,3 +892,16 @@ animation:“flicker 8s infinite”, opacity:0.03, background:”#4af84a”
 
 );
 }
+// This is a comment
+import React from 'react';
+
+function App() {
+  // Another comment
+  return (
+    <div>
+      <h1>Mimban Game</h1>
+    </div>
+  );
+}
+
+export default App;
